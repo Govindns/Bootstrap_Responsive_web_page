@@ -1,0 +1,6 @@
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: #dc3545 !important;
+    font-size: 25px;
+    color: wheat !important;
+}
